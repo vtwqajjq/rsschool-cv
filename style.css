@@ -111,6 +111,10 @@ section li{
     height: 100%;
 }
 
+.institution-names p, .jobs-info p {
+    padding-left: 20px;
+}
+
 .studys-years, .years-work {
     margin-right: 20px;
     font-size: 20px;
@@ -167,4 +171,26 @@ a {
     border-bottom-left-radius: 15px;
     background-color: #d9bfa5da;
 
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.rss-logo {
+    text-decoration: none;
+    width: 686px;
+    height: 95px;
+}
+
+.rss-logo img {
+   width: 400px;
+   height: 100%;
+}
+
+.birthday {
+    font-size: 25px;
+    padding: 15px;
+    
 }
