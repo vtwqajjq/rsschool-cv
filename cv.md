@@ -6,10 +6,10 @@
 
 * JavaScript, HTML, CSS, Git
 
-    ``` function century(year) {
+  ``` function century(year) {
   return Math.ceil(year/100);
   }; 
-    ```
+  ```
 
 * Релевантного опыта не имею, но не откажусь его получить.
 * Образование Высшее,инженер-строитель. Прошел курсы "Основы JavaScript" на площадке https://Udemy.com
